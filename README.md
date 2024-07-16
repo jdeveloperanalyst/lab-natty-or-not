@@ -23,16 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Breve descrição do seu projeto:
+- Criar imagens utilizan IA generativa
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Liste as IAs Generativas e outras ferramentas usadas:
+- Utilizei a IA generativa: https://www.bing.com/images/create
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Descreva como você criou o conteúdo:
+Solicitei uma entrada de dado descrevendo o tipo de imagem que eu queria conforme abaixo:
+"O batman sentado em uma cadeira como rei programando em python com um notebook da apple"
+Logo em seguida a IA criou a imagem.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.

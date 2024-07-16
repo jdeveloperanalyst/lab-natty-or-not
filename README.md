@@ -37,11 +37,15 @@ Solicitei uma entrada de dado descrevendo o tipo de imagem que eu queria conform
 Logo em seguida a IA criou a imagem.
 
 ## 🚀 Resultados
-
+Criou a imagem abaixo:
+![Trend Map Generative](https://github.com/jdeveloperanalyst/lab-natty-or-not/blob/main/images/_407d2fda-ef00-44c2-aba7-159264211430.jpeg)
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
 ```
+## 🚀 Resultados
+Criou a imagem abaixo:
+![Trend Map Generative](https://github.com/jdeveloperanalyst/lab-natty-or-not/blob/main/images/_407d2fda-ef00-44c2-aba7-159264211430.jpeg)
 
 ### Exemplos e Insigths
 
